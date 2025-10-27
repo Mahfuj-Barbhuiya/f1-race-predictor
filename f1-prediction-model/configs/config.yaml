@@ -1,0 +1,21 @@
+project_name: F1 Prediction Model
+virtual_env: f1_prediction_env
+data_sources:
+  - Ergast API
+  - FastF1
+  - Web scraping (weather, betting odds, FIA decisions, news)
+database:
+  type: sqlite
+  path: data/processed/f1_data.sqlite
+model:
+  baseline_models: true
+  advanced_models: true
+  ensemble: true
+  retraining: automated
+api:
+  framework: fastapi
+  port: 8000
+monitoring:
+  enabled: true
+  dashboard: grafana
+  alerting: true
