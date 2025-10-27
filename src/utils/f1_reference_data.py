@@ -1,0 +1,63 @@
+DRIVER_NAMES = {
+    1: 'Max Verstappen',
+    2: 'Lewis Hamilton',
+    3: 'Charles Leclerc',
+    4: 'Lando Norris',
+    5: 'Carlos Sainz',
+    6: 'George Russell',
+    7: 'Sergio Perez',
+    8: 'Fernando Alonso',
+    9: 'Oscar Piastri',
+    10: 'Esteban Ocon',
+    11: 'Pierre Gasly',
+    12: 'Valtteri Bottas',
+    13: 'Zhou Guanyu',
+    14: 'Yuki Tsunoda',
+    15: 'Kevin Magnussen',
+    16: 'Nico Hulkenberg',
+    17: 'Lance Stroll',
+    18: 'Alex Albon',
+    19: 'Logan Sargeant',
+    20: 'Daniel Ricciardo'
+}
+
+TEAM_NAMES = {
+    1: 'Red Bull',
+    2: 'Mercedes',
+    3: 'Ferrari',
+    4: 'McLaren',
+    5: 'Aston Martin',
+    6: 'Alpine',
+    7: 'Williams',
+    8: 'Sauber',
+    9: 'Haas',
+    10: 'RB'
+}
+
+TRACK_NAMES = {
+    1: 'Albert Park',
+    2: 'Bahrain',
+    3: 'Jeddah',
+    4: 'Imola',
+    5: 'Monaco',
+    6: 'Barcelona',
+    7: 'Montreal',
+    8: 'Red Bull Ring',
+    9: 'Silverstone',
+    10: 'Hungaroring',
+    11: 'Spa-Francorchamps',
+    12: 'Zandvoort',
+    13: 'Monza',
+    14: 'Singapore',
+    15: 'Suzuka',
+    16: 'Austin',
+    17: 'Mexico City',
+    18: 'Interlagos',
+    19: 'Las Vegas',
+    20: 'Qatar',
+    21: 'Shanghai',
+    22: 'Miami',
+    23: 'Abu Dhabi',
+    24: 'Sochi',
+    25: 'Istanbul'
+}

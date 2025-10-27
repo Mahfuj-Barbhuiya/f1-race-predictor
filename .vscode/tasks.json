@@ -1,0 +1,53 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Real-Time Predictor",
+			"type": "shell",
+			"command": "python src/utils/realtime_predictor.py",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Real-Time Predictor",
+			"type": "shell",
+			"command": "python src/utils/realtime_predictor.py",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Real-Time Predictor",
+			"type": "shell",
+			"command": "python src/utils/realtime_predictor.py",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Real-Time Predictor",
+			"type": "shell",
+			"command": "python src/utils/realtime_predictor.py",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Real-Time Predictor",
+			"type": "shell",
+			"command": "python src/utils/realtime_predictor.py",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Real-Time Predictor",
+			"type": "shell",
+			"command": "python src/utils/realtime_predictor.py",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
